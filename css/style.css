@@ -2,8 +2,18 @@ h1 {
     font-size: 72px;  
 }
 
+body {
+    background-color: white;
+}
+
+h1.meow {
+    color: #1f00ff;
+    text-decoration: underline;
+    font-size: 60px;
+}
+
 h2 {
-    color: #00ff00;
+    color: #272180;
 }
 
 h4.job-title {
